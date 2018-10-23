@@ -1,0 +1,3 @@
+　凯撒加密法的替换方法是通过排列明文和密文字母表，密文字母表示通过将明文字母表向左或向右移动一个固定数目的位置。例如，当偏移量是左移3的时候（解密时的密钥就是3）：
+　　明文字母表：ABCDEFGHIJKLMNOPQRSTUVWXYZ
+　　密文字母表：DEFGHIJKLMNOPQRSTUVWXYZABC
